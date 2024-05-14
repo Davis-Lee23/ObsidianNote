@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "1ecec9fe1e82b721",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1958a1522dea1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1444eccb210b0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5d7e93ca6089814",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bee9108e4d93192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e16cca46dc80fe08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca1d65266828315c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63156eb2838e1d0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7dbf95da0277117",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd2699b19a29b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b844dbb56b36b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13680eb5e8c24a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c644820664804d8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae621de352dc1e82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c1444eccb210b0aa",
+  "lastOpenFiles": []
+}
