@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "aa2d5d25f848c23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb0236ec09ebd4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79071273074d110b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未开源/Decentralized Federated Unlearning on Blockchain/Decentralized Federated Unlearning on Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6d6e8d0ba240058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/安全计算(安全多方计算).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d9b1007ff01f5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1108bc0b7e69d9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be802ffd122ea8b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e83b8ae19c06dbc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f966fe67340ad57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e47808484923dc4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e5c3bc4151fbbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ea331b0c567c2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/安全计算(安全多方计算).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58da6d8e9b3ddb9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/安全计算(安全多方计算).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e3b3353321c17fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "490e490f2f58d9c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/安全计算(安全多方计算).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "b6d6e8d0ba240058",
+  "lastOpenFiles": [
+    "Learning/安全计算(安全多方计算) 1.md",
+    "Learning/安全计算(安全多方计算).md",
+    "Learning/安全聚合SecAgg.md",
+    "Learning/SMC_Pic/Pasted image 20240315204631.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing.md",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240313150648.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240313142817.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240313150449.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240312221523.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240313113214.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240313115427.png",
+    "开源/Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing/Pic/Pasted image 20240312214530.png",
+    "未开源/Decentralized Federated Unlearning on Blockchain/Decentralized Federated Unlearning on Blockchain.md",
+    "Template.md",
+    "未开源/Decentralized Federated Unlearning on Blockchain/Pic",
+    "未开源/Blockchain-enabled Edge Computing Frameworkfor Hierarchic Cluster-based Federated Learning/Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning.md",
+    "未开源/Decentralized Federated Unlearning on Blockchain",
+    "未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning.md",
+    "论文总结.md",
+    "阅读.md",
+    "未开源/Tokenized Model_A Blockchain-EmpoweredDecentralized Model Ownership VerificationPlatform/Tokenized Model_A Blockchain-Empowered Decentralized Model Ownership Verification Platform.md",
+    "开源/Dordis/Dordis.md",
+    "开源/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus.md",
+    "Learning/变色龙哈希 CH.md",
+    "Learning/距离相似度.md",
+    "未开源/Blockchain-enabled Edge Computing Frameworkfor Hierarchic Cluster-based Federated Learning/pic",
+    "未开源/Blockchain-enabled Edge Computing Frameworkfor Hierarchic Cluster-based Federated Learning",
+    "开源/Dordis/Pic",
+    "开源/Dordis",
+    "Pasted image 20240316114118.png",
+    "Learning/SMC_Pic/Pasted image 20240316112802.png",
+    "Learning/SMC_Pic",
+    "开源/Lotto/Lotto.md",
+    "开源/Lotto/Pic",
+    "开源/Lotto",
+    "Learning/数字签名.md",
+    "Learning/IPFS.md",
+    "未开源/Tokenized Model_A Blockchain-EmpoweredDecentralized Model Ownership VerificationPlatform/Pic",
+    "Learning/NFT.md",
+    "毕设/代码修改.md",
+    "开源/未命名.md",
+    "毕设/2024.2.28记录.md"
+  ]
+}
