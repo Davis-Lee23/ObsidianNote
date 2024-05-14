@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "file": "Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "file": "Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "file": "Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md"
+                "file": "Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md"
               }
             }
           }
