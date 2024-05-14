@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "40a5f4a30253b4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0a1666c80ca050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4536ea3c6ab66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/DUCK_Distance-based Unlearning via Centroid Kinematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465add9c2586f548",
+    "type": "split",
+    "children": [
+      {
+        "id": "689b0b5eb786edd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d95bf2c7935539",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41722991b00f6547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "263f115b3c50ad8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce55ef06a9802503",
+    "type": "split",
+    "children": [
+      {
+        "id": "9631db3a528a3567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319079b5d7795c64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/DUCK_Distance-based Unlearning via Centroid Kinematics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ff5acbd9c696be7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/DUCK_Distance-based Unlearning via Centroid Kinematics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f94e40491f77d124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abf66b5dba2b9333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/DUCK_Distance-based Unlearning via Centroid Kinematics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "41d95bf2c7935539",
+  "lastOpenFiles": [
+    "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/Pic",
+    "MU_Papers_Notes/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+    "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics/DUCK_Distance-based Unlearning via Centroid Kinematics.md",
+    "MU_Papers_Notes/DUCK_Distance-based Unlearning via Centroid Kinematics",
+    "未命名",
+    "MU_Papers_Notes/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+    "MU_Papers_Notes/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/pictures/Pasted image 20240224111229.png"
+  ]
+}

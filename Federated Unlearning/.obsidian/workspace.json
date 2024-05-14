@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "099829eef64153fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc3d0a303eb0f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e34f2cefdc1f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29d6be701b3fab14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d98c891714ddb286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2203635100be098",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a812a5d8531a69b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e910c0383e80f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a970669d41bbea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0e8c0256040d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1cdef54e1b662fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48ae9c08a7728147",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b5df1e3a3dd75eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e129fba54d2e137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b3e34f2cefdc1f86",
+  "lastOpenFiles": [
+    "未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md",
+    "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+    "Template.md",
+    "Template 1.md",
+    "开源/FedEraser/FedEraser 详.md",
+    "未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
+    "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic",
+    "未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning",
+    "未开源/Blockchain-enabled Trustworthy Federated Unlearning/Pic",
+    "未开源/Blockchain-enabled Trustworthy Federated Unlearning",
+    "开源/FedEraser/Pic",
+    "开源/FedEraser",
+    "未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Pic",
+    "未开源/Scalable Federated Unlearning via Isolated and Coded Sharding",
+    "未开源",
+    "开源"
+  ]
+}
