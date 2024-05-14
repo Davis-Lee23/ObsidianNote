@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "61b59048a6879771",
+    "type": "split",
+    "children": [
+      {
+        "id": "449326a1b6da5587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a093ff1c0d06cd0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "623ff1e0ec1122ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd70287591f8469e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e604e31dd8dfd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bdafcb0d1ff8000",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4963a805b82ba9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5502e4efc66bdd5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a8cd520ecf0d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76833e41249b19c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c7bcfda2dbb902c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40b5f7af1d49207e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "276bb522934730b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a093ff1c0d06cd0a",
+  "lastOpenFiles": [
+    "create a link.md",
+    "Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
+    "Welcome.md",
+    "Poison Ink_Robust and Invisible Backdoor Attack"
+  ]
+}
