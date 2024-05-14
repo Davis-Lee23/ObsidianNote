@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2e473d85de73feaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d4921d797587f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df46363bc771517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11d23c85b2ed2126",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b1c0d42e42b4a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c85b79b23bf465",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7e92b0d2fc19e2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd21b7b485915ed4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ae461cbb4c30855",
+    "type": "split",
+    "children": [
+      {
+        "id": "870e7f92d9e1ac50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f1bc8672b80496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b14d3e053b5f51a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "656f2fc9f3b17f3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abc59240253d98ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overview/Overview/论文阅读/论文阅读.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e7e92b0d2fc19e2b",
+  "lastOpenFiles": [
+    "Learning/Pasted image 20240329000809.png",
+    "Learning/Pasted image 20240329000746.png",
+    "Learning/Code-代码/Code-代码.md",
+    "Learning/Code-代码/未命名.md",
+    "Learning/Code-代码",
+    "Learning/未命名",
+    "未命名",
+    "Blockchain/Template.md",
+    "Blockchain/未命名.md",
+    "Federated Unlearning/Template 1.md",
+    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/Pic",
+    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/未命名",
+    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/Decentralized Federated Unlearning on Blockchain.md",
+    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/未命名.md",
+    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain",
+    "Blockchain/未开源/未命名",
+    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/未命名.md",
+    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic",
+    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/未命名",
+    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md",
+    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
+    "Federated Unlearning/未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
+    "Overview/Overview/镜像 & 调试经验.md",
+    "Blockchain/Pasted image 20240316114118.png",
+    "Blockchain/Pasted image 20240310101254.png",
+    "Blockchain/阅读.md",
+    "Blockchain/论文总结.md",
+    "Blockchain/开源/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus.md",
+    "Federated Unlearning/Template.md",
+    "Federated Unlearning/未命名.md",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning.md",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/未命名.md",
+    "Federated Unlearning/开源/FedEraser/Pic/Pasted image 20240324161612.png",
+    "Overview/Overview/论文阅读/图片/f30d7fd20a7a8b528a4b8b41444494b.png",
+    "Federated Unlearning/开源/FedEraser/Pasted image 20240324161612.png",
+    "Overview/Overview/论文阅读/图片/26d64944be9d8e25948a5823cffd96d.png",
+    "Overview/Overview/论文阅读/论文阅读.md"
+  ]
+}
