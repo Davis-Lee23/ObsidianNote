@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "704a0582d96659d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f6f1418b738a88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7bc8b4579cb48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8aaf15a1badaab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5422fa655e76586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79af9c5d3821ef90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f52e43a27d69ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe13dcccc80be1de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58089009ef79f370",
+    "type": "split",
+    "children": [
+      {
+        "id": "2804c69e846a813a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc246919987e584",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "论文阅读.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e6b68516e50926e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "论文阅读.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d59b93f4d3bc755f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f74bf717df11bc92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "论文阅读.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4c7bc8b4579cb48e",
+  "lastOpenFiles": []
+}

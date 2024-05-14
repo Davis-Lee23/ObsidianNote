@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ad502544a76a4399",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdbb00aebaeef857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ad681ccc37dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BapFL_You can backdoor PFL/BapFL_You can backdoor PFL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0dc30e34ac2d9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PFL学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "377432e54e62c6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c30d433e366a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adce373431c50edd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "386f112754a2948f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c33174e26278e51f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "18d70c09933d66c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "49fdad567c04f96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dae001a620d1433",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PFL学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f17c49aae43e7e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PFL学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f282cd1fb1d0209",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39f81c45ae1bac92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PFL学习.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b0dc30e34ac2d9e6",
+  "lastOpenFiles": [
+    "Eliminating Domain Bias for Federated Learning inRepresentation Space/Eliminating Domain Bias for Federated Learning in Representation Space.md",
+    "PFL学习.md",
+    "BapFL_You can backdoor PFL/BapFL_You can backdoor PFL.md",
+    "Eliminating Domain Bias for Federated Learning inRepresentation Space/Pic",
+    "Eliminating Domain Bias for Federated Learning inRepresentation Space",
+    "PFL_Img/Pasted image 20240414201836.png",
+    "PFL_Img",
+    "BapFL_You can backdoor PFL/Pic",
+    "BapFL_You can backdoor PFL"
+  ]
+}
