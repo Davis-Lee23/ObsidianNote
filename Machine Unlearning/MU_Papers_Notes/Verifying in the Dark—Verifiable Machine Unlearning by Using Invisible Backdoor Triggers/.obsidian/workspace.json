@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "959e1366119059f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b2efce4bd780c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025b54bf10188267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81f38f37663c6704",
+    "type": "split",
+    "children": [
+      {
+        "id": "946e73a05e3e7b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8e0c948e822064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0baa012364942792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3db9040e35a4da83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6c09bbb8ad7be5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a4a25fb41cf914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a7f1de6aa914b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81e7d39e546b45f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6036a8f434c92fdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8076e6fbc7a76ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "025b54bf10188267",
+  "lastOpenFiles": []
+}

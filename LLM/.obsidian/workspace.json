@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "003425a3b6f434a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20e51408a57fbce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2365c2055d085034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/各种包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a22551edb5443277",
+    "type": "split",
+    "children": [
+      {
+        "id": "34713b35c506504e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7807334888103c2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed636b46eff7f0c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "581bd244246bd599",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3eb8fcbc193ba10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e34c20e9636699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50ae26a9636b04c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code/各种包.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bf17ac78abfc341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code/各种包.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "715569c7182714dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f0a0bc030603cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code/各种包.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7807334888103c2f",
+  "lastOpenFiles": [
+    "Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs.md",
+    "Large Language Model Unlearning/Large Language Model Unlearning.md",
+    "Large Language Model Unlearning/Pic",
+    "Large Language Model Unlearning",
+    "Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Pic/未命名.md",
+    "Code/各种包.md",
+    "Code",
+    "Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Pic",
+    "Unlearn What You Want to Forget_ Efficient Unlearning for LLMs"
+  ]
+}

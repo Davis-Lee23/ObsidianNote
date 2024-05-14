@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "57967e382336f627",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e353b12484a3343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd51895c56d7a4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview/镜像 & 调试经验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "456c0122476e1a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "944f551437f1d441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "397b75b402e4d7f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "769ca8d47d92657a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19a3a7408e20bc96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8b4dc298880052b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5467b56d518f5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4808b34a47217242",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overview/镜像 & 调试经验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69c6feb076a18c90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overview/镜像 & 调试经验.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7e7c5b849ceb3a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b1d104912283093",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overview/镜像 & 调试经验.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bd51895c56d7a4b6",
+  "lastOpenFiles": [
+    "Overview/论文level.md",
+    "Overview/联邦遗忘综述/A Survey on Federated Unlearning Challenges, Methods, and Future Directions/A Survey on Federated Unlearning Challenges, Methods, and Future Directions.md",
+    "Overview/镜像 & 调试经验.md",
+    "Overview/安全多方计算/安全多方计算.md",
+    "Overview/安全多方计算/图片/Pasted image 20240130163031.png",
+    "Overview/Pasted image 20240130163031.png"
+  ]
+}

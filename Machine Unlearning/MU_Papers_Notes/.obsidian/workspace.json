@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "a86dc94a4101770c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3710ade3b8931ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e0c1836e64ef8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ba39a85688c8bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c8fa1bce589ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45b7ed135e1a021",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f0e877e6124441d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fedd1742f3bb7074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "69a19d917eef7e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2cf8194535ef2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48bc64128c350ef7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8a2e64d8223b46a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adf5c3a8e0814e54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "596c9efcd02824f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d3e0c1836e64ef8b",
+  "lastOpenFiles": [
+    "Pasted image 20240224111229.png",
+    "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection.md",
+    "Welcome.md",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240208195312.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+    "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/pictures",
+    "Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212152853.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212152002.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212150532.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212150308.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212150257.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212145921.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240212145845.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片/Pasted image 20240208211013.png",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/图片",
+    "Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers",
+    "图片"
+  ]
+}
