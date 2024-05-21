@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "2b0d42d16e805c6c",
+    "id": "7942299dc48982cd",
     "type": "split",
     "children": [
       {
-        "id": "aab1e96b62273f0c",
+        "id": "da301f42df0aa9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec2e837306f0f53",
+            "id": "2d1caeac2242d602",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240514164114.png"
+                "file": "Decentralized Federated Unlearning on Blockchain.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f0b42e527181f0ff",
+    "id": "8f8f06ca19584bc3",
     "type": "split",
     "children": [
       {
-        "id": "3c54475f5c8f450f",
+        "id": "5c30a9a03521cccc",
         "type": "tabs",
         "children": [
           {
-            "id": "ec393c6cfbf42893",
+            "id": "d3b6f3fe2faad9d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +43,7 @@
             }
           },
           {
-            "id": "e08f40954b277121",
+            "id": "3e019c11a11263a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "40721e2576d504cc",
+            "id": "be24e6fcb54aca4d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "9d17c18e7e1e4736",
+    "id": "cb4b2e5aa16754fb",
     "type": "split",
     "children": [
       {
-        "id": "245d06e90cb4194f",
+        "id": "da61823d6b359ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b03f3bc2f1ad900",
+            "id": "4dd6ad2323fd6ec2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240514164114.png",
+                "file": "Decentralized Federated Unlearning on Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +97,19 @@
             }
           },
           {
-            "id": "10456d451f516aa2",
+            "id": "e544e5abe0d6d4ff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240514164114.png",
+                "file": "Decentralized Federated Unlearning on Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "53702a4391889ce8",
+            "id": "f38ebe3b272e7c94",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +120,12 @@
             }
           },
           {
-            "id": "02794057324d5f88",
+            "id": "86720ad0602c6cfd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240514164114.png"
+                "file": "Decentralized Federated Unlearning on Blockchain.md"
               }
             }
           }
@@ -144,9 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ec2e837306f0f53",
-  "lastOpenFiles": [
-    "Eliminating Domain Bias for Federated Learning in Representation Space.md",
-    "Pasted image 20240514164114.png"
-  ]
+  "active": "2d1caeac2242d602",
+  "lastOpenFiles": []
 }
