@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "b18efa72d794be9a",
+    "id": "6a1bf3c3cc46be98",
     "type": "split",
     "children": [
       {
-        "id": "d5606d66107609fc",
+        "id": "0359bc707531fac7",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b7528c3d6b0198",
+            "id": "552ec6a6e8ef9f0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "新知识/余弦相似性.md",
-                "mode": "source",
-                "source": false
+                "file": "图片/Pasted image 20240130170037.png"
               }
             }
           }
@@ -25,25 +23,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f17eb4b90afeeb8",
+    "id": "e02bbcecf8ab1c6e",
     "type": "split",
     "children": [
       {
-        "id": "431eef40b67fe8a7",
+        "id": "de2ac8b655244677",
         "type": "tabs",
         "children": [
           {
-            "id": "70c9afcc188c484f",
+            "id": "0aa9a777d215b4cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "6b1c79d8d495e5e5",
+            "id": "789df075e46cad69",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "030b8b7e7c0bf914",
+            "id": "0b654e82e7e464c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +67,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 300
   },
   "right": {
-    "id": "9f67942e21ff7853",
+    "id": "d9b94f53ab437656",
     "type": "split",
     "children": [
       {
-        "id": "fb64e31f578e09b2",
+        "id": "6d6fe619840f37de",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb5dd6ec4807a2e",
+            "id": "cb66b63883c431e5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "新知识/余弦相似性.md",
+                "file": "图片/Pasted image 20240130170037.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +95,19 @@
             }
           },
           {
-            "id": "b2746ae785092b12",
+            "id": "fdb590c15948ebdd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "新知识/余弦相似性.md",
+                "file": "图片/Pasted image 20240130170037.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d9ce09311be4c1e2",
+            "id": "1b6e36414564d83f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +118,12 @@
             }
           },
           {
-            "id": "a784453e97e4e97c",
+            "id": "98380c7229bde92c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "新知识/余弦相似性.md"
+                "file": "图片/Pasted image 20240130170037.png"
               }
             }
           }
@@ -146,28 +144,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7b7528c3d6b0198",
+  "active": "552ec6a6e8ef9f0c",
   "lastOpenFiles": [
-    "新知识/变色龙哈希.md",
-    "新知识/IID与Non-IID.md",
-    "新知识/最小描述长度MDL.md",
-    "新知识/最大似然估计.md",
-    "后门攻击/黑白盒.md",
-    "Writting-写论文/知乎-学习写论文.md",
-    "新知识",
-    "每周论文小结/2024.4.7.md",
-    "Code-代码/Code-代码.md",
-    "后门攻击/Pic",
-    "后门攻击/Pic/Pasted image 20240414215929.png",
-    "后门攻击",
-    "每周论文小结",
-    "Writting-写论文",
-    "新知识/余弦相似性.md",
-    "Pasted image 20240405214347.png",
-    "Code-代码/pic/Pasted image 20240329000809.png",
-    "Pasted image 20240329000746.png",
-    "Code-代码/pic",
-    "Code-代码",
-    "LaTeX"
+    "安全多方计算.md"
   ]
 }
