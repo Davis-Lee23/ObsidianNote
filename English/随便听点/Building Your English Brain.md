@@ -50,3 +50,28 @@ look sth up 查阅
 features = characteristics
 region = area = place
 ![[Pasted image 20240530142655.png|500]]
+
+
+# 4、Learning Words
+
+①再次复述English dictionary的重要性，首先是转换慢，其次是slightly difference
+We need E->E, not E->C->E
+
+②forms, we should look up all of the main forms of the word.
+Once you've learned a new word, make a sentence and try other forms.
+
+③Context.
+We can't say a single word, we need a situation.
+
+Not only do we know what the word means in our language, we should understand it  in English.
+OK, go to struggle, it is hard but good.
+
+### 生词
+correlation - correlate - correlated
+correlation<font color="#4f81bd">/ˌkɔːr.əˈleɪ.ʃən/</font> = relationship = connection
+
+synonym<font color="#4f81bd">/ˈsɪn.ə.nɪm/ </font>- synonymous<font color="#4f81bd">/sɪˈnɑː.nə.məs/ </font>- synonymously
+standard = certain requirements
+
+come up with sth:  to suggest or think of an idea or plan，提出
+come across sth：to find something by chance，遇到、无意发现
