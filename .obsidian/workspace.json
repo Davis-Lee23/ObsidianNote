@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d4921d797587f0",
+        "id": "21d531c7d4e2bb61",
         "type": "tabs",
         "children": [
           {
-            "id": "3df46363bc771517",
+            "id": "3303138db1629d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "file": "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb27c3bfd47b5717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ce295bcf4851e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/读写论文/B站-读论文.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview/Overview/论文阅读/论文阅读.md",
+                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview/Overview/论文阅读/论文阅读.md"
+                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md"
               }
             }
           }
@@ -139,16 +163,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e7e92b0d2fc19e2b",
+  "active": "eb27c3bfd47b5717",
   "lastOpenFiles": [
+    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+    "Learning/读写论文/B站-读论文.md",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic",
+    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side.md",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning",
+    "Backdoor/Welcome.md",
+    "Backdoor/create a link.md",
+    "LLM/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs.md",
+    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/Pic",
+    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side",
+    "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md",
+    "Personalized FL/PFL_Img/Pasted image 20240414201836.png",
+    "Foundation Models/Foundation Models/知识总览.md",
+    "Foundation Models/Foundation Models/Welcome.md",
+    "Foundation Models/Foundation Models/creat.md",
+    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic/Pasted image 20240710172950.png",
+    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic/Pasted image 20240710170651.png",
+    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
+    "Overview/Overview/论文阅读/论文阅读.md",
     "Learning/Pasted image 20240329000809.png",
     "Learning/Pasted image 20240329000746.png",
     "Learning/Code-代码/Code-代码.md",
@@ -164,29 +208,15 @@
     "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/Decentralized Federated Unlearning on Blockchain.md",
     "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/未命名.md",
     "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain",
-    "Blockchain/未开源/未命名",
     "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
     "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/未命名.md",
-    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic",
-    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/未命名",
-    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning",
     "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md",
     "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
     "Federated Unlearning/未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
-    "Overview/Overview/镜像 & 调试经验.md",
     "Blockchain/Pasted image 20240316114118.png",
     "Blockchain/Pasted image 20240310101254.png",
-    "Blockchain/阅读.md",
-    "Blockchain/论文总结.md",
-    "Blockchain/开源/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus.md",
-    "Federated Unlearning/Template.md",
-    "Federated Unlearning/未命名.md",
-    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning.md",
-    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/未命名.md",
     "Federated Unlearning/开源/FedEraser/Pic/Pasted image 20240324161612.png",
     "Overview/Overview/论文阅读/图片/f30d7fd20a7a8b528a4b8b41444494b.png",
-    "Federated Unlearning/开源/FedEraser/Pasted image 20240324161612.png",
-    "Overview/Overview/论文阅读/图片/26d64944be9d8e25948a5823cffd96d.png",
-    "Overview/Overview/论文阅读/论文阅读.md"
+    "Federated Unlearning/开源/FedEraser/Pasted image 20240324161612.png"
   ]
 }
