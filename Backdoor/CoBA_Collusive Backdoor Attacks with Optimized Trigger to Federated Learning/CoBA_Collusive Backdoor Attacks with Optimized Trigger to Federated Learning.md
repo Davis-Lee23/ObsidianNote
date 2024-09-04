@@ -73,7 +73,7 @@ l=loss，损失函数，代表对数据实例（x，y）的结果。第一个是
 ### 实验设置
 数据集：cifar10、cifar100（resnet18）、mnist、fmnist（卷积1）、loan（3fc）
 触发器：24pixels/bird ； 24pixels/fish ; 20x20pixels/1;  20x20pixels/Trouser ; 31特征的trigger/Fully Paid
-数据切分：noniid，迪利克雷分布α=0.9，LOAN单独处理
+数据切分：noniid，迪利克雷分布α=0.9（越小越异质），LOAN单独处理
 后门基线方法：四种分布式后门攻击方法
 1. ModelRe：用λ放大中毒模型
 2. LIE：使用clamping regularization裁剪中毒模型参数
@@ -84,7 +84,7 @@ l=loss，损失函数，代表对数据实例（x，y）的结果。第一个是
 训练算法为FedAvg，学习率lr=1，α、β、γ都为0.0001，gradient mask=0.99，φ好像用来限制优化触发器与初始触发器的距离，还需要看原文。
 
 ##### 攻击设置
-N：所有，C：恶意
+N：所有，C：恶意，比例20%
 **趋于收敛之后才开始攻击**
 ![[Pasted image 20240903183111.png]]
 
@@ -108,4 +108,24 @@ N：所有，C：恶意
 2. sparsity：大量实验表面CoBA收敛的更快，并且在停止攻击后中毒效果更持久
 
 ### 消融实验
-**触发器优化** 
+
+**Optimization of Triggers**：对比了保持不变的触发器的ASR，很多ASR都下降了
+![[Pasted image 20240904171109.png]]
+
+**Regularization Terms of CoBA**：
+NL：去掉本地正则，该项减少中毒和良性局部模型的偏差，有助于逃避异常检测
+NG：去掉全局正则，该项减少中毒局部模型与全局模型的差异，防止范数裁剪等防御
+NS：去掉余弦，增加中毒模型局部差异，应对基于相似性的防御
+去掉任意一个正则项ASR有可能在某个方法中下降
+![[Pasted image 20240904171331.png]]
+
+**Projected Gradient Descent Optimization**：P=1意味着没有使用，在攻击阶段没有差异，但是在停止攻击后使用PGD方法的ASR维持在较高的水平
+![[Pasted image 20240904173009.png]]
+
+### 补充
+还比较了non-iid程度与恶意客户端比例。
+
+# Conclusions
+本文从stealthy，sparse，ASR三个维度测评了多种后门攻击，并提出了CoBA，一个在多维度都优于其他后门攻击方法的自适应优化攻击方法。
+
+评价：感觉像一篇集成了多篇文章优点的论文，触发器优化|正则化|PGD，有大量的实验支撑，除了PGD那块都挺1易懂
