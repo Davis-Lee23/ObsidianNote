@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb27c3bfd47b5717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md"
+                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md"
               }
             }
           }
@@ -171,21 +158,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eb27c3bfd47b5717",
+  "active": "3303138db1629d8b",
   "lastOpenFiles": [
+    "Backdoor/DBA/pic/Pasted image 20240920215022.png",
+    "未命名.md",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Backdoor/DBA/pic/Pasted image 20240920214032.png",
+    "Backdoor/DBA/pic",
+    "Backdoor/DBA/pic/Pasted image 20240920201456.png",
     "Learning/读写论文/B站-读论文.md",
+    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904173009.png",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904171331.png",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904171109.png",
+    "Backdoor/DBA",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Poisoning with Cerberus_Stealthy and Colluded Backdoor Attack against Federated Learning.md",
+    "Federated Learning/各种聚合.md",
+    "Learning/Code-代码/Code-代码.md",
+    "Learning/知识蒸馏/CSDN-迪菲赫尔曼.md",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240907114919.png",
+    "English/Welcome.md",
+    "create a link.md",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906211936.png",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906205021.png",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906210339.png",
+    "Overview/Overview/镜像 & 调试经验.md",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic",
+    "Backdoor/Poisoning with Cerberus_Stealthy and",
+    "Backdoor/Poisoning with Cerberus_Stealthy and",
+    "Backdoor/Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904151049.png",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904150856.png",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240903183111.png",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904173009.png",
     "Backup/句子.md",
     "Backup/Help/遗忘剩余数据体现.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240903183111.png",
     "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
     "Federated Unlearning/开源/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing.md",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic",
     "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning",
@@ -195,28 +202,9 @@
     "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/Pic",
     "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side",
     "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md",
-    "Personalized FL/PFL_Img/Pasted image 20240414201836.png",
     "Foundation Models/Foundation Models/知识总览.md",
     "Foundation Models/Foundation Models/Welcome.md",
     "Foundation Models/Foundation Models/creat.md",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic/Pasted image 20240710172950.png",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Pic/Pasted image 20240710170651.png",
-    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
-    "Overview/Overview/论文阅读/论文阅读.md",
-    "Learning/Pasted image 20240329000809.png",
-    "Learning/Code-代码/Code-代码.md",
-    "Learning/Code-代码/未命名.md",
-    "Learning/Code-代码",
-    "Learning/未命名",
-    "未命名",
-    "Blockchain/Template.md",
-    "Blockchain/未命名.md",
-    "Federated Unlearning/Template 1.md",
-    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/Pic",
-    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/未命名",
-    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/Decentralized Federated Unlearning on Blockchain.md",
-    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain/未命名.md",
-    "Blockchain/未开源/Decentralized Federated Unlearning on Blockchain",
-    "Federated Unlearning/未开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md"
+    "Learning/Code-代码"
   ]
 }
