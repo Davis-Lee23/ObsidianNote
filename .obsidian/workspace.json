@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+                "file": "Learning/Code-代码/Code-代码.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/读写论文/B站-读论文.md",
+                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+                "file": "Learning/Code-代码/Code-代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+                "file": "Learning/Code-代码/Code-代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md"
+                "file": "Learning/Code-代码/Code-代码.md"
               }
             }
           }
@@ -160,17 +160,21 @@
   },
   "active": "3303138db1629d8b",
   "lastOpenFiles": [
+    "Learning/Code-代码/pic/Pasted image 20240329000809.png",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Poisoning with Cerberus_Stealthy and Colluded Backdoor Attack against Federated Learning.md",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+    "Learning/读写论文/B站-读论文.md",
+    "Backdoor/How to Backdoor FL/Pic",
+    "Backdoor/How to Backdoor FL",
     "Backdoor/DBA/pic/Pasted image 20240920215022.png",
     "未命名.md",
-    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
     "Backdoor/DBA/pic/Pasted image 20240920214032.png",
     "Backdoor/DBA/pic",
     "Backdoor/DBA/pic/Pasted image 20240920201456.png",
-    "Learning/读写论文/B站-读论文.md",
     "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
     "Backdoor/DBA",
-    "Backdoor/Poisoning with Cerberus_Stealthy and/Poisoning with Cerberus_Stealthy and Colluded Backdoor Attack against Federated Learning.md",
     "Federated Learning/各种聚合.md",
     "Learning/Code-代码/Code-代码.md",
     "Learning/知识蒸馏/CSDN-迪菲赫尔曼.md",
@@ -188,7 +192,6 @@
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904151049.png",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904150856.png",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240903183111.png",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic/Pasted image 20240904173009.png",
     "Backup/句子.md",
     "Backup/Help/遗忘剩余数据体现.md",
     "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
@@ -200,11 +203,8 @@
     "Backdoor/create a link.md",
     "LLM/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs.md",
     "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/Pic",
-    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side",
     "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md",
     "Foundation Models/Foundation Models/知识总览.md",
-    "Foundation Models/Foundation Models/Welcome.md",
-    "Foundation Models/Foundation Models/creat.md",
-    "Learning/Code-代码"
+    "Foundation Models/Foundation Models/Welcome.md"
   ]
 }

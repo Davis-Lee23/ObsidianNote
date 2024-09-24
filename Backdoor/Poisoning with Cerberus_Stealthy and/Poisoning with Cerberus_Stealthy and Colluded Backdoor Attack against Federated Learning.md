@@ -1,4 +1,6 @@
 [[CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning]]
+[[How to Backdoor FL]] 借鉴本文的威胁模型分析
+[[DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING]] 思想源自于此
 CoBA是本篇的加强版
 # Abstract
 动机：尽管已有大量对FL后门攻击的研究，但共谋攻击者依然可以规避各种前沿的防御方法。
