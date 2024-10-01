@@ -160,10 +160,12 @@
   },
   "active": "3303138db1629d8b",
   "lastOpenFiles": [
+    "Machine Unlearning/MU_Papers_Notes/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
+    "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Pasted image 20240925161854.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925155300.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic",
-    "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925160918.png",
     "Learning/Code-代码/Code-代码.md",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers",
@@ -189,7 +191,6 @@
     "create a link.md",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906211936.png",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906205021.png",
-    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Pasted image 20240906210339.png",
     "Overview/Overview/镜像 & 调试经验.md",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Pic",
     "Backdoor/Poisoning with Cerberus_Stealthy and",
@@ -204,7 +205,6 @@
     "Backdoor/Welcome.md",
     "Backdoor/create a link.md",
     "LLM/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs.md",
-    "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md",
-    "Foundation Models/Foundation Models/知识总览.md"
+    "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md"
   ]
 }
