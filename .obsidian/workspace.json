@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "file": "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+                "file": "Learning/读写论文/B站-读论文.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "file": "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
+                "file": "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md"
+                "file": "Federated Unlearning/开源/FedEraser/FedEraser 详.md"
               }
             }
           }
@@ -160,21 +160,26 @@
   },
   "active": "3303138db1629d8b",
   "lastOpenFiles": [
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
+    "Learning/读写论文/B站-读论文.md",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/pic",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md",
+    "Federated Unlearning/Template.md",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/pic/Pasted image 20240925161854.png",
+    "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Machine Unlearning/MU_Papers_Notes/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
-    "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
-    "Pasted image 20240925161854.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925155300.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925160918.png",
     "Learning/Code-代码/Code-代码.md",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers",
     "Learning/Code-代码/pic/Pasted image 20240329000809.png",
-    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
     "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Poisoning with Cerberus_Stealthy and Colluded Backdoor Attack against Federated Learning.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
-    "Learning/读写论文/B站-读论文.md",
     "Backdoor/How to Backdoor FL/Pic",
     "Backdoor/How to Backdoor FL",
     "Backdoor/DBA/pic/Pasted image 20240920215022.png",
@@ -194,17 +199,11 @@
     "Overview/Overview/镜像 & 调试经验.md",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Pic",
     "Backdoor/Poisoning with Cerberus_Stealthy and",
-    "Backdoor/Poisoning with Cerberus_Stealthy and",
     "Backdoor/Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
     "Backup/句子.md",
     "Backup/Help/遗忘剩余数据体现.md",
     "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
     "Federated Unlearning/开源/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/Pic",
-    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side.md",
-    "Backdoor/Welcome.md",
-    "Backdoor/create a link.md",
-    "LLM/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs/Unlearn What You Want to Forget_ Efficient Unlearning for LLMs.md",
-    "LLM/Large Language Model Unlearning/Large Language Model Unlearning.md"
+    "LLM/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side/An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side.md"
   ]
 }

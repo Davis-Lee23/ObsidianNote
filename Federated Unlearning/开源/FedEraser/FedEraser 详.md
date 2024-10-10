@@ -19,7 +19,7 @@
 ![[Pasted image 20240324161612.png]]
 
 超参数设置：r=0.5, t=2
-评价标准：acc，loss，time，**prediction difference** ，MIA的攻击精度、召回率
+评价标准：acc，loss，time，**prediction difference** ，MIA的攻击精度、召回率（用来评估遗忘有效性）
 预测参数的差异，还用了个角度图
 #### 实验结果：
 对比了蛮多东西，不过cifar明显造假+不全
