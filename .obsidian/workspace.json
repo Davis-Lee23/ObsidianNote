@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
+                "file": "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION"
+              "title": "A Little Is Enough"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
+                "file": "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Federated Unlearning with Knowledge Distillation"
+              "title": "How to Backdoor FL"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "B站-读论文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iid",
+                "query": "andr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,18 +190,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d54c8ab5dcaa3677",
+  "active": "3303138db1629d8b",
   "lastOpenFiles": [
-    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
+    "Learning/吴恩达/第二周/多维特征.md",
     "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
     "Learning/读写论文/B站-读论文.md",
+    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
+    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
+    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
     "Federated Unlearning/未开源/QuickDrop/pic",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
     "Federated Unlearning/未开源/QuickDrop",
     "Backdoor/后门攻击技巧.md",
     "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Personalized FL/PFL学习.md",
     "Learning/新知识/IID与Non-IID.md",
-    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
     "Federated Learning/FedAvg/FedAvg.md",
     "Learning/丸一口系列/FedAvg.md",
     "Foundation Models/Foundation Models/知识总览.md",
@@ -211,8 +214,6 @@
     "Common/学术写作/论文速读.md",
     "Overview/Pic",
     "Common/学术写作",
-    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
-    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
     "Backdoor/A Little Is Enough（LIE）/Pic",
     "Backdoor/A Little Is Enough/未命名",
     "Backdoor/A Little Is Enough（LIE）",
@@ -224,7 +225,6 @@
     "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/pic/Pasted image 20240925161854.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Machine Unlearning/MU_Papers_Notes/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark—Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
-    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925155300.png",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/pic/Pasted image 20240925160918.png",
