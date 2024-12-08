@@ -1,11 +1,11 @@
 通过模型操纵对联邦学习进行大规模数据重构攻击
 
-FedSGD是特殊的FedAvg，即local epoch=1，全部聚合的avg
+**FedSGD是特殊的FedAvg，即iteration=1（注意不是epoch），所有客户端全部聚合**
 
 # Authors
 Joshua C. Zhao，普渡大学为主，南加州为辅
 领域为分布式学习（联邦）和拜占庭鲁棒，以及对抗机器学习。对对抗鲁棒性和泛化准确率tradeoff感兴趣。
-普渡大学博四，3A（CVPR+SP）+2B（DSN+TODAES）+1C（ACM AsiaCCS）
+本硕西北大学，普渡大学博四，3A（CVPR+SP）+2B（DSN+TODAES）+1C（ACM AsiaCCS）
 [Joshua C. Zhao (joshuaczhao.github.io)](https://joshuaczhao.github.io/)
 
 # Abstract
@@ -41,11 +41,111 @@ Joshua C. Zhao，普渡大学为主，南加州为辅
 重建攻击的核心理念就是打破FL对于隐私的基本原则，即通过updates就可以得到客户端data。
 类别有优化、分析攻击、线性层泄露、GANs，但大都只关注单客户端以及聚合后的梯度。
 
+### 2.1 优化攻击
+优化攻击对于小batch的单个客户端很有效。
+好像是不断优化一些虚拟数据，让他们接近于真实梯度。
+然而哪怕是最新的方法，随着批量大小的增加，恢复的图像比例会随着重建质量的提高而降低，并且优化所需的迭代次数也会增加。
+原因在原文
+
+### 2.2 聚合攻击
+已经有几种专门针对聚合梯度的攻击，但是，它们目前的攻击可扩展性受到限制。
+
+### 2.3 线性层泄露攻击
+**线性层泄漏攻击是分析攻击的一个子类**，它修改 FC 层以泄漏输入。当只有一个图像时可以用梯度倒推出输入，因此batch越大越难推理。
+
+花了大量笔墨介绍Robbing the Fed（RtF），思路以及如何应对avg。
+还说什么要**两个FC才行**
+
+要对比的应该是这一类
+
+# Methodology
+通过背景了解，优化方法大batch下的重建图像质量很难改进，而线性层泄露方法在SGD中非常好，但在Avg中效果差。
+
+### 3.1 Model assumptions and attack scope
++ 威胁模型：一个恶意服务器，可以修改模型架构和参数，它的目的是恢复私有数据
++ 系统模型：跨设备的FL，采用了安全聚合机制，在此设置中的客户端无权对服务器发送的模型进行彻底的验证。但同时服务器不能接收关于客户端或关于单个更新的任何信息。
++ 攻击范围：FedAVG和SGD，不考虑数据类型，理应都可以
+
+### 3.2 Scalability problem
+公式好像蛮重要的
+对于FedAVG，感觉没讲明白为什么不行
+对于SGD，一个神经元应该对应一个图像，因此batch和n of client越大，FC的单元就要越大。
+
+总的来说无论哪种方法对于bs和noc的增多都是放大FC的大小，这导致了可扩展性问题。
+**LOKI分开处理了这俩问题，对于bs增大fc，对于noc增加卷积核数量**，同时还引入了一个卷积缩放因子防止同一个神经元被多次激活。
+
+### 3.3 攻击架构
+在模型的开头加入一个攻击模块，该模块由一个卷积层和两个 FC 层组成。
+具体维度和输入有关。
+
+### 3.4 卷积参数
+先讨论简单的FedSGD。
+提出了一个什么恒等映射集，不知道干啥的，pass
+
+### 3.5 De-aggregated update 解聚更新
+将3.4中精心设计的单独卷积内核发送到各个客户端，每组身份映射集的权重梯度仅对于一组不同的卷积输出通道不为零。因此，当更新聚合在一起时，权重梯度将保持独立。
+
+### 3.6 FedAVG与卷积缩放因子
+convolutional scaling factor（CSF）卷积缩放因子
+
+# Additional attack details
+**我怎么感觉大部分都是rebuttal补的**
+
+### 4.1 FC layer biases 设置
+初始化权重的不同会影响泄露率。...
+反正就是按照正态分布设置偏差。
+
+### 4.2 Identifying client data
+LOKI利用映射，可以知道数据是谁的，服务器随后可以专注于特定的高价值客户端。
+
+### 4.3 Parameter comparison
+比RtF要的参数少一半，这是因为RtF第一层FC要的参数太多。
+稀疏性可以允许对模型/更新进行额外压缩和更有效的优化，以显著降低计算和通信成本开销
+
+### 4.4 Model inconsistency
+这种方法本质上会在客户端之间造成模型不一致。
+模型不一致的两个极端是：**完全模型不一致**，所有客户端都得到不同的模型，以及**没有模型不一致性**，所有客户端得到相同的模型。
+后一种LOKI还不赖
 
 # Experiments
 ### Setup
 数据集：CIFAR-100，Tiny ImageNet，MNIST
-leakage module使用ResNet-50
+模型：ResNet-50
+基线方法：RtF、LOKI、LOKI without MI（即完全一致）
 一些看不太懂的实验设置。
 
-这个真得从头开始看
+
+### FedAVG聚合攻击
+先展示图六，客户端增多，LOKI依然优秀
+
+再展示图五，修改了一部分超参数，RtF由于精度问题效果很差
+
+又修改了设置，得到了图二
+
+### FedSGD聚合攻击
+此处又展示了LOKI的applicability，和一个老方法trap weights组合后，效果比单独强。
+
+### 数据集size与FC size的影响
+size大，泄露率低，但注意是比例低，绝对数量可不低
+FC大，泄露率高
+
+### 卷积缩放因子
+图9先和RtF对比了一波参数大小。
+
+然后出现了什么PSNR、SSIM、LPIPS（前二越高越好，最后越低越好）
+### NonIID FL
+用了OrganAMNIST数据集，数据结果有点春秋笔法
+
+### Adding noise
+图12和14结合着一起看
+
+# Defenses and mitigation
+
+
+
+
+# Comments
+每一个实验都要微调超参数，混乱。
+真的可用吗？因为完全没出现过ACC。
+模型架构一公开就GG。
+既然噪声可以防御，差分隐私也可以防御
