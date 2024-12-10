@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6f94bee466f742",
+        "id": "dfd6439b678b40e6",
         "type": "tabs",
         "children": [
           {
-            "id": "89052d9e5d47412a",
+            "id": "7fd96112efd7ccf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Learning/LOKI/LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.md",
+                "file": "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation"
+              "title": "A Little Is Enough"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svhn",
+                "query": "andr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7ae461cbb4c30855",
@@ -162,53 +162,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89052d9e5d47412a",
+  "active": "7fd96112efd7ccf1",
   "lastOpenFiles": [
-    "Learning/读写论文/B站-读论文.md",
-    "Federated Learning/LOKI/LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.md",
-    "Common/学术写作/论文速读.md",
-    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
-    "Federated Learning/LOKI",
-    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
-    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic/Pasted image 20241129221902.png",
+    "Pasted image 20241112001845.png",
+    "PaperRef.bib",
     "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/pic/Pasted image 20241129230115.png",
-    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
-    "Common/会议记录/2024.11.29 论文写作.md",
-    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic/Pasted image 20241127180312.png",
     "Federated Unlearning/未开源/CONDA/CONDA_FAST FEDERATED UNLEARNING WITH CONTRIBUTION DAMPENING.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
-    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
-    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
-    "README.md",
+    "Federated Unlearning/未开源/CONDA",
+    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic/Pasted image 20241129221902.png",
+    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic/Pasted image 20241127180312.png",
     "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic/Pasted image 20241127180040.png",
     "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
+    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
     "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Pic",
+    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
     "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
-    "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
-    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.md",
-    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
-    "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
-    "Federated Learning/各种聚合.md",
-    "Federated Unlearning/未开源/CONDA/Pic",
-    "Federated Unlearning/未开源/CONDA",
+    "Federated Learning/LOKI/LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.md",
+    "Federated Learning/LOKI",
+    "Common/会议记录/2024.11.29 论文写作.md",
+    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112155347.png",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112160004.png",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112155440.png",
-    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112155347.png",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112155333.png",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112152319.png",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic/Pasted image 20241112151921.png",
-    "English/权游/随手记.md",
-    "English/权游/Pic",
-    "English/权游",
-    "Common/2024数学/组合优化/组合优化.md",
-    "Common/2024数学/组合优化",
+    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/pic",
+    "Learning/读写论文/B站-读论文.md",
+    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
+    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.md",
+    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
+    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense",
     "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
     "Learning/吴恩达/第二周/多维特征.md",
+    "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
     "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
+    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
+    "Federated Unlearning/未开源/QuickDrop/pic",
+    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
+    "Federated Unlearning/未开源/QuickDrop",
     "Backdoor/后门攻击技巧.md",
-    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Personalized FL/PFL学习.md"
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Pic/Personalized FL/PFL学习.md",
+    "Learning/新知识/IID与Non-IID.md",
+    "Federated Learning/FedAvg/FedAvg.md",
+    "Learning/丸一口系列/FedAvg.md",
+    "Foundation Models/Foundation Models/知识总览.md",
+    "Overview/Overview/联邦遗忘综述/联邦忘却学习研究综述.md",
+    "Common/学术写作/论文速读.md",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md"
   ]
 }
