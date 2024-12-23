@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/应用密码学/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense 1.md",
+                "file": "Blockchain/开源/ChainKV/ChainKV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense 1"
+              "title": "ChainKV"
             }
           }
         ],
@@ -177,10 +177,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8c85b79b23bf465",
+  "active": "f903be99a557f367",
   "lastOpenFiles": [
-    "Course/应用密码学/Section 6 密码协议.md",
+    "Blockchain/开源/ChainKV/Pic",
+    "Blockchain/开源/ChainKV/未命名.md",
+    "Blockchain/开源/ChainKV/ChainKV.md",
+    "Blockchain/Pic/Pasted image 20240310101254.png",
+    "Blockchain/Pic/Pasted image 20240316114118.png",
+    "Blockchain/Pic",
+    "Blockchain/开源/ChainKV",
     "Course/应用密码学/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense 1.md",
+    "Course/应用密码学/Section 6 密码协议.md",
     "Blockchain/Learning/安全计算(安全多方计算).md",
     "Overview/Overview/安全多方计算/安全多方计算.md",
     "Course/应用密码学/Pic/Pasted image 20241223154956.png",
@@ -195,8 +202,6 @@
     "Course/应用密码学/Pic/Pasted image 20241223153731.png",
     "Course/应用密码学/Pic/Pasted image 20241223145131.png",
     "Course/应用密码学/Pic/Pasted image 20241223153323.png",
-    "Course/应用密码学/Pic/Pasted image 20241223150201.png",
-    "Course/应用密码学/Pic/Pasted image 20241223143011.png",
     "Course/应用密码学/Section 2 攻防角力.md",
     "Course/应用密码学/未命名",
     "Course/应用密码学/Pic",
@@ -218,12 +223,7 @@
     "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
     "README.md",
     "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/pic",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
     "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Pic",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning",
-    "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
-    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.md",
-    "Federated Unlearning/未开源/CONDA/Pic"
+    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Pic"
   ]
 }
