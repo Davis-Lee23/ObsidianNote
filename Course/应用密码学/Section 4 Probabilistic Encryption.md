@@ -1,6 +1,6 @@
 
 # 二次剩余 Quadratic residue
-假设整数a,p满足gcd（a，p）=1，即互为质数，若有x的平方满足：
+假设整数a,m满足gcd（a，m）=1，即互为质数，若有x的平方满足：
 ![[Pasted image 20241223131347.png]]
 我们称a是模m的二次剩余。
 
