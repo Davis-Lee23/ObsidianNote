@@ -179,8 +179,9 @@
   },
   "active": "2ebbc78d23d4e5fa",
   "lastOpenFiles": [
-    "Course/可靠系统分析/Section 2 量化基础.md",
+    "Course/可靠系统分析/LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation 1.md",
     "Course/可靠系统分析/Section 5 基于连续时间马尔可夫链的 可用性分析模型.md",
+    "Course/可靠系统分析/Section 2 量化基础.md",
     "Course/可靠系统分析/Section 4 Reliability of Component.md",
     "Course/可靠系统分析/Pic/Pasted image 20241225140312.png",
     "Course/可靠系统分析/Pic",
@@ -223,7 +224,6 @@
     "Federated Learning/LOKI",
     "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
     "Common/会议记录/2024.11.29 论文写作.md",
-    "Federated Unlearning/未开源/CONDA/CONDA_FAST FEDERATED UNLEARNING WITH CONTRIBUTION DAMPENING.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md"
+    "Federated Unlearning/未开源/CONDA/CONDA_FAST FEDERATED UNLEARNING WITH CONTRIBUTION DAMPENING.md"
   ]
 }
