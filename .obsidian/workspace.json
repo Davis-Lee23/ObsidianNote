@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor/后门攻击技巧.md",
+                "file": "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "后门攻击技巧"
+              "title": "A Little Is Enough"
+            }
+          },
+          {
+            "id": "d5a238892e518982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse"
+            }
+          },
+          {
+            "id": "25c7bbf61111a4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/读写论文/B站-读论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B站-读论文"
             }
           }
         ]
@@ -40,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -164,37 +193,43 @@
   },
   "active": "2ebbc78d23d4e5fa",
   "lastOpenFiles": [
-    "Learning/Code-代码/一些代码技巧.md",
     "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
+    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Common/Metaverse数据集速览.md",
+    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse.md",
+    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic/Pasted image 20250302125620.png",
+    "Learning/读写论文/B站-读论文.md",
+    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic",
+    "Federated Unlearning/Template.md",
+    "论文速读/NDSS'2025/Do We Really Need to Design New Byzantine-robust Aggregation Rules.md",
+    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse",
+    "论文速读/NDSS'2025/A Method to Facilitate Membership Inference Attacks in Deep Learning Models.md",
+    "Blockchain/未开源/Blockchain-enabled Trustworthy Federated Unlearning.md",
+    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
+    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
+    "Federated Unlearning/未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
+    "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information.md",
+    "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/Pic/Pasted image 20250220115433.png",
+    "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/Pic",
+    "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
+    "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
+    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
+    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
+    "论文速读/NDSS'2025/Understanding Data Importance in Machine Learning Attacks_Does Valuable Data Pose Greater Harm.md",
+    "论文速读/NDSS'2025/Reinforcement Unlearning.md",
+    "Backdoor/后门攻击技巧.md",
+    "Learning/Code-代码/一些代码技巧.md",
     "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
     "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
     "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.md",
     "Backdoor/Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
-    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
-    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
-    "Learning/Code-代码/Code-代码.md",
-    "Learning/Thinking.md",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
-    "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
-    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
-    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
-    "Federated Unlearning/开源/How to Efficiently Erase a Client in FL/How to Efficiently Erase a Client in FL.md",
-    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
-    "Federated Unlearning/未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
-    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
-    "Federated Unlearning/未开源/Federated Unlearning via Active Forgetting/Federated Unlearning via Active Forgetting.md",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
     "Learning/Code-代码/pic/Pasted image 20241229180407.png",
-    "Course/可靠系统分析/Section 5 基于连续时间马尔可夫链的 可用性分析模型.md",
-    "Course/可靠系统分析/LOKI__Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation 1.md",
-    "Course/可靠系统分析/Section 2 量化基础.md",
-    "Course/可靠系统分析/Section 4 Reliability of Component.md",
     "Course/可靠系统分析/Pic/Pasted image 20241225140312.png",
     "Course/可靠系统分析/Pic",
     "Course/可靠系统分析/Pic/Pasted image 20241225140638.png",
-    "Blockchain/开源/ChainKV/ChainKV.md",
     "Course/可靠系统分析",
-    "Course/应用密码学/Section 5 Message Authentication.md",
     "Blockchain/开源/ChainKV/Pic",
     "Blockchain/Pic/Pasted image 20240310101254.png",
     "Blockchain/Pic/Pasted image 20240316114118.png",
@@ -203,12 +238,6 @@
     "Course/应用密码学/Pic/Pasted image 20241223154956.png",
     "Course/应用密码学/Pic/Pasted image 20241223170525.png",
     "Pasted image 20241223170508.png",
-    "Course/应用密码学/Pic/Pasted image 20241223170053.png",
-    "Course/应用密码学/Pic/Pasted image 20241223155603.png",
-    "Course/应用密码学/未命名",
-    "Course/应用密码学/Pic",
-    "Course/应用密码学",
-    "Course",
-    "Federated Learning/LOKI"
+    "Course/应用密码学/未命名"
   ]
 }
