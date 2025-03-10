@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
+                "file": "Machine Unlearning/MU_Papers_Notes/Learn to Forget_Machine Unlearning via Neuron Masking/Learn to Forget_Machine Unlearning via Neuron Masking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Little Is Enough"
-            }
-          },
-          {
-            "id": "d5a238892e518982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse"
-            }
-          },
-          {
-            "id": "25c7bbf61111a4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/读写论文/B站-读论文.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B站-读论文"
+              "title": "Learn to Forget_Machine Unlearning via Neuron Masking"
             }
           }
         ]
@@ -81,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svhn",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -193,38 +165,40 @@
   },
   "active": "2ebbc78d23d4e5fa",
   "lastOpenFiles": [
-    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
-    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
-    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
-    "Common/Metaverse数据集速览.md",
     "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse.md",
-    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic/Pasted image 20250302125620.png",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Forget_Machine Unlearning via Neuron Masking/Learn to Forget_Machine Unlearning via Neuron Masking.md",
+    "Federated Learning/各种聚合.md",
+    "English/Welcome.md",
+    "create a link.md",
+    "Common/2024数学/组合优化/组合优化.md",
+    "Pasted image 20240806112239.png.md",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Forget_Machine Unlearning via Neuron Masking/pic",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Forget_Machine Unlearning via Neuron Masking",
     "Learning/读写论文/B站-读论文.md",
+    "Backdoor/A Little Is Enough（LIE）/A Little Is Enough.md",
+    "Learning/读写论文/技巧.md",
+    "Learning/读写论文/知乎-学习写论文.md",
+    "论文速读/NDSS'2025/速递.md",
+    "Common/成员推理攻击.md",
+    "Machine Unlearning/MU_Papers_Notes/Welcome.md",
+    "Common/Metaverse数据集速览.md",
+    "Common/强化学习.md",
+    "Backup/句子.md",
+    "Backup/Help/遗忘剩余数据体现.md",
+    "Learning/丸一口系列/FedAvg.md",
+    "Learning/后门攻击/黑白盒.md",
+    "Learning/Thinking.md",
+    "Backdoor/How to Backdoor FL/How to Backdoor FL.md",
+    "Backdoor/DBA/DBA_DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING.md",
+    "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic/Pasted image 20250302125620.png",
     "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic",
     "Federated Unlearning/Template.md",
     "论文速读/NDSS'2025/Do We Really Need to Design New Byzantine-robust Aggregation Rules.md",
     "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse",
-    "论文速读/NDSS'2025/A Method to Facilitate Membership Inference Attacks in Deep Learning Models.md",
-    "Blockchain/未开源/Blockchain-enabled Trustworthy Federated Unlearning.md",
-    "Federated Unlearning/开源/Federated Unlearning with Knowledge Distillation/Federated Unlearning with Knowledge Distillation.md",
-    "Federated Unlearning/开源/Communication Efficient and Provable Federated Unlearning/Communication Efficient and Provable Federated Unlearning.md",
-    "Federated Unlearning/未开源/Scalable Federated Unlearning via Isolated and Coded Sharding/Scalable Federated Unlearning via Isolated and Coded Sharding 略.md",
-    "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information.md",
     "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/Pic/Pasted image 20250220115433.png",
     "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/Pic",
-    "Federated Unlearning/未开源/QuickDrop/QUICKDROP_EFFICIENT FEDERATED UNLEARNING BY INTEGRATED DATASET DISTILLATION.md",
     "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information",
-    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
-    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
-    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
-    "论文速读/NDSS'2025/Understanding Data Importance in Machine Learning Attacks_Does Valuable Data Pose Greater Harm.md",
-    "论文速读/NDSS'2025/Reinforcement Unlearning.md",
-    "Backdoor/后门攻击技巧.md",
-    "Learning/Code-代码/一些代码技巧.md",
-    "Backdoor/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning/CoBA_Collusive Backdoor Attacks with Optimized Trigger to Federated Learning.md",
-    "Backdoor/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers/Verifying in the Dark_Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.md",
-    "Backdoor/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense/Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.md",
-    "Backdoor/Poison Ink_Robust and Invisible Backdoor Attack/Poison Ink _ Robust and Invisible Backdoor Attack.md",
     "Learning/Code-代码/pic/Pasted image 20241229180407.png",
     "Course/可靠系统分析/Pic/Pasted image 20241225140312.png",
     "Course/可靠系统分析/Pic",
@@ -234,10 +208,8 @@
     "Blockchain/Pic/Pasted image 20240310101254.png",
     "Blockchain/Pic/Pasted image 20240316114118.png",
     "Blockchain/Pic",
-    "Blockchain/开源/ChainKV",
     "Course/应用密码学/Pic/Pasted image 20241223154956.png",
     "Course/应用密码学/Pic/Pasted image 20241223170525.png",
-    "Pasted image 20241223170508.png",
-    "Course/应用密码学/未命名"
+    "Pasted image 20241223170508.png"
   ]
 }
