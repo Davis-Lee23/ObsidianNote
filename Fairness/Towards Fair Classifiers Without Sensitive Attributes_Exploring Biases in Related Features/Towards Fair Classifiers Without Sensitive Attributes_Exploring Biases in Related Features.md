@@ -4,6 +4,8 @@
 作者链接：[Bio - Tianxiang Zhao’s Homepage](https://tianxiangzhao.github.io/)
 本硕中科大，宾夕法尼亚phd毕业，导师[Prof.Xiang Zhang](https://ist.psu.edu/directory/xzz89) and [Prof.Suhang Wang](https://suhangwang.ist.psu.edu/).
 
+这类题材很整蛊，个人感觉<font color="#ff0000">unfairness本身就是一种fairness</font>
+
 # Abstract
 背景：ML被证明从训练数据中得到的结果带有歧视和社会偏见，一些追求公平的研究开始使用敏感属性进行训练
 动机：实际场景中由于隐私或法律问题，获取敏感属性通常是不可行的，这挑战了现有的公平确保策略。
@@ -25,22 +27,69 @@
 	7. 实验证明有效（实验证明）
 
 # Related Work
+本文分为三类：
+1. individual 公平
+2. group 公平，本文聚焦于此
+3. Max-Min 公平
+
+对于群体公平，又根据处理阶段分为三类方法（本文属于哪种？）：
+1. pre-processing，修改训练数据，以减少数据历史歧视，如纠正标签、修改属性、生成非歧视性数据，获得公平表示。（<font color="#ff0000">偏离了客观现实</font>）
+2. in-processing，修改训练过程，用公平约束函数训练
+3. post-processing，直接修改模型预测标签？
+
+尽管有研究，但是都需要敏感数据，因此研究不具有敏感熟悉的公平模型仍是挑战。然后复述了三个挑战。
+
+# Problem Definition
+F：特征集合
+S：sensitive attribute
+Fs：非敏感，但高度相关
+
+# Preliminary Theoretical Analysis
+没有意义
+
+β：协方差cos的角度，0-Π
+
+# Methodology
+核心思想是使用正则化的相关特征Fs作为代理公平性目标。
+就是对Fs进行三步操作，细节无所谓，对着代码找就OK。
+
+# Optimization Algorithm
+理论证明，没啥看的意义
 
 
 # Experiment
-先看intro吧，好多新东西
-
 旨在回答FairRF面临的三个问题：
 1. 能否不使用敏感数据保持公平，且高精度
 2. Fs包含错误或不完整特征时，FairRF性能如何
 3. 不同超参的影响
-
 ## Setup
-数据集：Adult，compas，LSAC
+数据集：
+1. Adult，RF：age、relation、martial status，S：gender
+2. COMPAS，RF：score、decile text、sex，S：race
+3. LSAC，RF：race、year、residence，S：gender
 基线：Vanilla model，ConstrainS（知道每个数据的敏感性），KSMOTE，RemoveR，ARL
 模型：KSMOTE用作者提供的，其他的用MLP+Adam，lr=0.001
 指标：
-1. Equal Opportunity：
-2. Demographic Parity：
-3. ACC
+4. Equal Opportunity：越小越好。
+5. Demographic Parity：越小越好。
+6. ACC
 
+## 直观的性能比较
+回答问题一：EO，DP明显优势，ACC一般
+
+## Impact of Fs
+用了不同的选择策略来选Fs
+1. 完全随机：随便选五组开始
+2. Fix-λ：不会自适应，固定了λ
+3. Top-1：只用一个最有效的RF（全跑一遍才知道）
+4. All：所有都视为RF
+5. Noisy：把一个RF调包呈不相关的
+
+## 参数敏感性
+闹麻
+
+
+# Power Point
+方法和代码一一对应弄几页。
+实验设置看情况吧
+根据三类实验，选择性的做本文的实现
