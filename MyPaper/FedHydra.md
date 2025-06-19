@@ -22,13 +22,14 @@ python ./dataset/generate_cifar10.py noniid - dir
 
 
 ## 引用
-Adaptive Clipping and Distillation Enabled Federated Unlearning，提到了Streisand效应
+Adaptive Clipping and Distillation Enabled Federated Unlearning，提到了Streisand效应streisand
 
 
 
 
 ## 翻译
 流程：百度翻译（deepl）-QuillBot-deepseek-QuillBot
+想起来了，谷歌翻译才是goat
 
 
 ## Coverletter
