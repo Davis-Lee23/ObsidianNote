@@ -22,7 +22,7 @@ python ./dataset/generate_cifar10.py noniid - dir
 
 
 ## 引用
-Adaptive Clipping and Distillation Enabled Federated Unlearning，提到了Streisand效应streisand
+Adaptive Clipping and Distillation Enabled Federated Unlearning，提到了Streisand效应streisand史翠珊
 
 
 

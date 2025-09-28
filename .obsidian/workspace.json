@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "148e94e8b90aba6d",
+            "id": "48e5b2b041786a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks.md",
+                "file": "TEE/CAGE_Complementing Arm CCA with GPU Extensions/CAGE_Complementing Arm CCA with GPU Extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks"
+              "title": "CAGE_Complementing Arm CCA with GPU Extensions"
+            }
+          },
+          {
+            "id": "c8e40a3a22e87d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/新知识/机密计算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "机密计算"
             }
           }
         ]
@@ -54,7 +68,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 252.5
   },
   "right": {
     "id": "7ae461cbb4c30855",
@@ -155,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -163,52 +178,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8c85b79b23bf465",
+  "active": "48e5b2b041786a78",
   "lastOpenFiles": [
-    "Federated Unlearning/开源/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter.md",
-    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks.md",
-    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks/Pic",
-    "Federated Unlearning/IDEA/一种综合防御.md",
-    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks",
-    "Federated Unlearning/未开源/Model Inversion Attack against Federated Unlearning/Model Inversion Attack against Federated Unlearning.md",
-    "Federated Unlearning/IDEA",
-    "MyPaper/FedHydra.md",
-    "Federated Unlearning/未开源/Model Inversion Attack against Federated Unlearning/Pic",
-    "Federated Unlearning/开源/AAAI_2025_Zibin Pan_FedOSD/AAAI_2025_Zibin Pan_FedOSD.md",
-    "Federated Unlearning/未开源/Model Inversion Attack against Federated Unlearning",
-    "论文速读/WWW'2025/进度记录.md",
-    "论文速读/NDSS'2025/速递.md",
-    "Learning/Thinking.md",
-    "论文速读/WWW'2025",
-    "Learning/读写论文/B站-读论文.md",
+    "Learning/新知识/机密计算.md",
+    "TEE/CAGE_Complementing Arm CCA with GPU Extensions/CAGE_Complementing Arm CCA with GPU Extensions.md",
+    "写论文注意事项.md",
+    "TEE/CAGE_Complementing Arm CCA with GPU Extensions",
+    "TEE",
     "Learning/读写论文/知乎-学习写论文.md",
-    "Federated Unlearning/开源/arXiv_2022_Wu Chen_FUKD/Federated Unlearning with Knowledge Distillation.md",
-    "Federated Unlearning/开源/AAAI_2025_Zibin Pan_FedOSD/Pic",
-    "Federated Unlearning/开源/AAAI_2025_Zibin Pan_FedOSD",
-    "Fairness/Towards Fair Classifiers Without Sensitive Attributes_Exploring Biases in Related Features/Towards Fair Classifiers Without Sensitive Attributes_Exploring Biases in Related Features.md",
-    "Fairness/Towards Fair Classifiers Without Sensitive Attributes_Exploring Biases in Related Features/Pic",
-    "Fairness/Towards Fair Classifiers Without Sensitive Attributes_Exploring Biases in Related Features",
-    "Federated Unlearning/开源/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter/Pic/Pasted image 20250424005141.png",
-    "Federated Unlearning/未开源/SP_2023_Xiaoyu Cao_FedRecover/SP_2023_Xiaoyu Cao_FedRecover.md",
-    "MIA/SP_2017_Shokri_MIA/SP_2017_Shokri_MIA.md",
-    "MIA/SP_2017_Shokri_MIA/Pic/Pasted image 20250422211208.png",
-    "Overview/Overview/联邦持续学习综述/Federated Continual Learning via Knowledge Fusion_ A Survey.md",
-    "Learning/持续学习/CSDN-2020.md",
-    "Learning/知识蒸馏/CSDN-迪菲赫尔曼.md",
-    "Learning/丸一口系列/FedAvg.md",
-    "Learning/吴恩达/第三周/Part 2.md",
-    "Learning/吴恩达/第三周/Part 1.md",
-    "Learning/吴恩达/第二周/多维特征.md",
-    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+    "Learning/读写论文/技巧.md",
+    "未命名.base",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Unlearn for Deep Neural Networks_Minimizing Unlearning Interference with Gradient Projection/Learn to Unlearn_Minimizing Unlearning Interference with Gradient Projection.md",
+    "Machine Unlearning/MU_Papers_Notes/Learn to Forget_Machine Unlearning via Neuron Masking/Learn to Forget_Machine Unlearning via Neuron Masking.md",
+    "Federated Unlearning/开源/FedEraser/FedEraser 详.md",
+    "Federated Unlearning/未开源/Adaptive Clipping and Distillation Enabled Federated Unlearning/Adaptive Clipping and Distillation Enabled Federated Unlearning.md",
+    "Federated Unlearning/未开源/Blockchain-enabled Trustworthy Federated Unlearning/Blockchain-enabled Trustworthy Federated Unlearning 略.md",
+    "Blockchain/未开源/Blockchain-enabled Trustworthy Federated Unlearning.md",
     "Overview/Overview/联邦遗忘综述/A Survey on Federated Unlearning Challenges, Methods, and Future Directions/A Survey on Federated Unlearning Challenges, Methods, and Future Directions.md",
-    "Federated Unlearning/开源/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing/BFU_Bayesian Federated Unlearning with Parameter Self-Sharing.md",
+    "MyPaper/FedHydra.md",
+    "Federated Unlearning/未开源/FAST_Adopting Federated Unlearning to EliminatingMalicious Terminals at Server Side/FAST_Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side.md",
+    "Blockchain/开源/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus/A Blockchain-Based Decentralized Federated Learning Framework with Committee Consensus.md",
+    "Federated Unlearning/开源/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter.md",
+    "Federated Unlearning/未开源/Toward Efficient and Robust Federated Unlearning in IoT Networks/Toward Efficient and Robust Federated Unlearning in IoT Networks.md",
+    "Federated Unlearning/开源/Towards Efficient and Certified Recovery fromPoisoning Attacks in Federated Learning/Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning.md",
+    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks.md",
+    "Federated Unlearning/开源/Unlearning during Learning_An Efficient Federated Machine Unlearning Method/Unlearning during Learning_An Efficient Federated Machine Unlearning Method.md",
+    "Federated Unlearning/未开源/Model Inversion Attack against Federated Unlearning/Model Inversion Attack against Federated Unlearning.md",
+    "Federated Unlearning/未开源/Privacy-Preserving Federated Unlearning With Certified Client Removal/Privacy-Preserving Federated Unlearning With Certified Client Removal.md",
+    "Federated Unlearning/未开源/Privacy-Preserving Federated Unlearning With Certified Client Removal/Pic",
+    "Federated Unlearning/未开源/Privacy-Preserving Federated Unlearning With Certified Client Removal",
+    "Learning/Code-代码/一些代码技巧.md",
+    "Federated Unlearning/未开源/Poisoning Attacks and Defenses to Federated Unlearning/Poisoning Attacks and Defenses to Federated Unlearning.md",
+    "Federated Unlearning/开源/Unlearning during Learning_An Efficient Federated Machine Unlearning Method",
+    "Federated Unlearning/未开源/SP_2023_Xiaoyu Cao_FedRecover/SP_2023_Xiaoyu Cao_FedRecover.md",
+    "Backdoor/Poisoning with Cerberus_Stealthy and/Poisoning with Cerberus_Stealthy and Colluded Backdoor Attack against Federated Learning.md",
+    "Federated Unlearning/未开源/Poisoning Attacks and Defenses to Federated Unlearning/Pic/Pasted image 20250622143615.png",
+    "Federated Unlearning/未开源/Poisoning Attacks and Defenses to Federated Unlearning/Pic",
+    "Federated Unlearning/未开源/Poisoning Attacks and Defenses to Federated Unlearning",
+    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks/Pic",
+    "Federated Unlearning/开源/FedMUA_Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks",
+    "Federated Unlearning/开源/Unlearning through Knowledge Overwriting_Reversible Federated Unlearning via Selective Sparse Adapter/Pic/Pasted image 20250424005141.png",
+    "MIA/SP_2017_Shokri_MIA/Pic/Pasted image 20250422211208.png",
     "Federated Unlearning/未开源/SP_2023_Xiaoyu Cao_FedRecover/Pic/Pasted image 20250312130149.png",
     "Federated Unlearning/未开源/Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse/pic/Pasted image 20250302125620.png",
     "Federated Unlearning/未开源/FedRecover_Recovering from Poisoning Attacks in Federated Learning using Historical Information/Pic/Pasted image 20250220115433.png",
     "Learning/Code-代码/pic/Pasted image 20241229180407.png",
     "Course/可靠系统分析/Pic/Pasted image 20241225140312.png",
     "Course/可靠系统分析/Pic/Pasted image 20241225140638.png",
-    "Blockchain/Pic/Pasted image 20240310101254.png",
-    "Blockchain/Pic/Pasted image 20240316114118.png"
+    "Blockchain/Pic/Pasted image 20240310101254.png"
   ]
 }

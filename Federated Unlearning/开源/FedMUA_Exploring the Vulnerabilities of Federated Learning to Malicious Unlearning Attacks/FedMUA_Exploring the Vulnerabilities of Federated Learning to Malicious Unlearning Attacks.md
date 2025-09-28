@@ -1,9 +1,10 @@
-#开源 #CCF-A #TIFS 
-
+#开源 #CCF-A #TIFS #y2025 
 
 # Comments
-感觉质量一般
-
+感觉质量一般，好像极其依赖引用14，这篇很厉害，是ICML的best paper。
+本文假设的背景是恶意客户端要让某些特定的良性客户端被遗忘，比如把某些高可信客户端变成低可信。
+本文所说的特征对齐参考下面的博客，带着吉他的猫，吉他和猫同时出现误导主体。比如我本来要忘记猫，但是我恶意生成了一堆带着吉他的猫，可能吉他也会被连带着遗忘。
+[【翻译】论文剖析：《Understanding Black Box Predictions via Influence Functions Explained》_understanding black-box predictions via influence -CSDN博客](https://blog.csdn.net/qq_34740599/article/details/107305416)
 # Authors
 香港理工大学，一二作应该差不多贡献，博士后
 
@@ -32,11 +33,25 @@ IFs：influence functions
 # Related Work
 
 
+# Threat Model
+攻击者：一个或多个客户端
+攻击目标：一是让特定客户端也会被错误分类，二是非特定客户端不受影响
+攻击者知识：黑盒场景，不知道全局模型架构、先验知识、模型更新。攻击者知道要攻击谁（看似需要知道别人的数据，但以银行为例特征故意设置成种族、性别是很容易的）、可以操控自己的数据。
+攻击能力：毫无意义的一段话，就介绍了几个符号。
+
+# Problem Formulation
+
+
 # Method
+步骤一ISI：识别出显著影响性能的训练子集，用别人论文的什么**负IF指数**
+步骤二MUG：利用这些有影响力的数据，**将他们的特征与目标样本特征**对其，制造出恶意的遗忘请求。
+
+详解看原文吧
 
 
-
-
+# Defensive Mechanism
+灵感源自于观察：恶意客户端在训练的初始轮次梯度更新会异常的高，由此提出了一种新奇的防御方法。
+分为两步，首先用Interquartile Range (IQR) method四分位距法辨别出异常值，这个值源自于各个客户端每个梯度的L2范数之和，然后将这些参数乘以一个超参数λ如0.5来减轻他们的影响。
 
 # Experiment
 ## Setup
